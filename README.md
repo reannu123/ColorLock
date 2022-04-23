@@ -3,7 +3,7 @@ Class project for CS 11. Simple graphical encryption tool using python and pygle
 
 Requirements:
 - Pyglet 1.4.6
-- Python 3.8
+- Python 3
 
 
 Group members:
